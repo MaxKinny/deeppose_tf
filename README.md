@@ -1,3 +1,8 @@
+# Docker 
+Run the docker container：
+```sh
+docker run --gpus all --name <container's name> -it -v <repo_path>:/deeppose maxgundam/deeppose_tf bash
+```
 # DeepPose (stg-1) on TensorFlow
 
 **NOTE**: This is not an official implementation. Original paper is [DeepPose: Human Pose Estimation via Deep Neural Networks](http://arxiv.org/abs/1312.4659).
