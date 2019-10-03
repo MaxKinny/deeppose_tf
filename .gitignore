@@ -70,7 +70,6 @@ docs/_build/
 target/
 
 out
-weights
 datasets/lsp
 datasets/lsp_ext
 datasets/mpii
